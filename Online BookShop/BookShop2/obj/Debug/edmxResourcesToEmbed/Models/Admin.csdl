@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BookShopModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="BookDetail">
+    <Key>
+      <PropertyRef Name="BookId" />
+    </Key>
+    <Property Name="BookId" Type="Int32" Nullable="false" />
+    <Property Name="BookName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Author" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Price" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="CartDetails" Relationship="Self.FK_Table_ToTable" FromRole="BookDetail" ToRole="CartDetail" />
+  </EntityType>
+  <EntityType Name="CartDetail">
+    <Key>
+      <PropertyRef Name="CartId" />
+    </Key>
+    <Property Name="CartId" Type="Int32" Nullable="false" />
+    <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="BookId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="BookDetail" Relationship="Self.FK_Table_ToTable" FromRole="CartDetail" ToRole="BookDetail" />
+    <NavigationProperty Name="UserDetail" Relationship="Self.FK_Table_ToUserDetail" FromRole="CartDetail" ToRole="UserDetail" />
+    <Property Name="Buy" Type="Int32" Nullable="false" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="UserDetail">
+    <Key>
+      <PropertyRef Name="UserName" />
+    </Key>
+    <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="CartDetails" Relationship="Self.FK_Table_ToUserDetail" FromRole="UserDetail" ToRole="CartDetail" />
+  </EntityType>
+  <Association Name="FK_Table_ToTable">
+    <End Role="BookDetail" Type="Self.BookDetail" Multiplicity="1" />
+    <End Role="CartDetail" Type="Self.CartDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BookDetail">
+        <PropertyRef Name="BookId" />
+      </Principal>
+      <Dependent Role="CartDetail">
+        <PropertyRef Name="BookId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Table_ToUserDetail">
+    <End Role="UserDetail" Type="Self.UserDetail" Multiplicity="1" />
+    <End Role="CartDetail" Type="Self.CartDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserDetail">
+        <PropertyRef Name="UserName" />
+      </Principal>
+      <Dependent Role="CartDetail">
+        <PropertyRef Name="UserName" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BookShopEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BookDetails" EntityType="Self.BookDetail" />
+    <EntitySet Name="CartDetails" EntityType="Self.CartDetail" />
+    <EntitySet Name="UserDetails" EntityType="Self.UserDetail" />
+    <AssociationSet Name="FK_Table_ToTable" Association="Self.FK_Table_ToTable">
+      <End Role="BookDetail" EntitySet="BookDetails" />
+      <End Role="CartDetail" EntitySet="CartDetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Table_ToUserDetail" Association="Self.FK_Table_ToUserDetail">
+      <End Role="UserDetail" EntitySet="UserDetails" />
+      <End Role="CartDetail" EntitySet="CartDetails" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

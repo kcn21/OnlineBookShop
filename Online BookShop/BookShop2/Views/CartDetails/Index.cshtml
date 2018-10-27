@@ -1,0 +1,79 @@
+﻿@model IEnumerable<BookShop2.Models.CartDetail>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{ int? total = 0;
+    int? n;
+}
+
+<h2>Index</h2>
+
+<table class="table">
+    <tr>
+
+        <th>
+            @Html.DisplayNameFor(model => model.BookDetail.BookName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BookDetail.Author)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BookDetail.Price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UserDetail.Name)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.BookDetail.BookName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BookDetail.Author)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+
+                @{ n = item.Quantity;}
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BookDetail.Price)
+                @{ total = (item.BookDetail.Price) * n + total;}
+            </td>
+            <td>
+                @Session["UserName"]
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.CartId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.CartId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.CartId })
+            </td>
+        </tr>
+    }
+
+
+
+</table>
+
+@if (total == 0)
+{
+
+    <h5>You Have To Add Atlest One Item</h5>
+    @Html.ActionLink("Home", "Index","Home")
+}
+else
+{
+
+    <p>Total:</p> @total
+    <center><h4 style="background-color:white;text-decoration:none;width:50px;align-self:center">@Html.ActionLink("BUY", "Buy")</h4></center>
+}

@@ -1,0 +1,42 @@
+﻿@model BookShop2.Models.CartDetail
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>CartDetail</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BookDetail.BookName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.BookDetail.BookName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BookDetail.Author)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.BookDetail.Author)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BookDetail.Price)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.BookDetail.Price)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.CartId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

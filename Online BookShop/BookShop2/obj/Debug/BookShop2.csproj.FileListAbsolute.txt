@@ -1,0 +1,1084 @@
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\BookShop2.dll.config
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\BookShop2.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\BookShop2.pdb
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Owin.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\WebGrease.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\BookShop2\BookShop2\obj\Debug\BookShop2.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\BookShop2\BookShop2\obj\Debug\BookShop2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BookShop2\BookShop2\obj\Debug\BookShop2.csproj.CopyComplete
+C:\Users\Admin\Desktop\BookShop2\BookShop2\obj\Debug\BookShop2.dll
+C:\Users\Admin\Desktop\BookShop2\BookShop2\obj\Debug\BookShop2.pdb
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\ApplicationInsights.config
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\BookShop2.dll.config
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\BookShop2.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\BookShop2.pdb
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\csc.exe
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\csc.exe.config
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\csc.rsp
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\csi.exe
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\csi.exe.config
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\csi.rsp
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.AppContext.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Console.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\vbc.exe
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\vbc.exe.config
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\vbc.rsp
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Antlr3.Runtime.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\EntityFramework.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\EntityFramework.SqlServer.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AI.Web.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Newtonsoft.Json.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Owin.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.Helpers.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.Mvc.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.Optimization.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.Razor.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.WebPages.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\WebGrease.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.Helpers.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.Mvc.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.Optimization.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.Razor.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.WebPages.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Newtonsoft.Json.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Antlr3.Runtime.pdb
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\EntityFramework.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\EntityFramework.SqlServer.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AI.Web.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\obj\Debug\BookShop2.csprojAssemblyReference.cache
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\obj\Debug\BookShop2.csproj.CoreCompileInputs.cache
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\obj\Debug\BookShop2.csproj.CopyComplete
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\obj\Debug\BookShop2.dll
+C:\Users\Roshan\Desktop\New folder\BookShop2\BookShop2\obj\Debug\BookShop2.pdb
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\ApplicationInsights.config
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\BookShop2.dll.config
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\BookShop2.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\BookShop2.pdb
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\csc.exe
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\csc.exe.config
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\csc.rsp
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\csi.exe
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\csi.exe.config
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\csi.rsp
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\System.AppContext.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\System.Console.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\vbc.exe
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\vbc.exe.config
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\vbc.rsp
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Antlr3.Runtime.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\EntityFramework.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\EntityFramework.SqlServer.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.AI.Web.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Newtonsoft.Json.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Owin.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\System.Web.Helpers.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\System.Web.Mvc.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\System.Web.Optimization.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\System.Web.Razor.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\System.Web.WebPages.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\WebGrease.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\System.Web.Helpers.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\System.Web.Mvc.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\System.Web.Optimization.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\System.Web.Razor.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\System.Web.WebPages.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Newtonsoft.Json.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Antlr3.Runtime.pdb
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\EntityFramework.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\EntityFramework.SqlServer.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.AI.Web.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\obj\Debug\BookShop2.csprojAssemblyReference.cache
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\obj\Debug\BookShop2.csproj.CoreCompileInputs.cache
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\obj\Debug\BookShop2.csproj.CopyComplete
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\obj\Debug\BookShop2.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\obj\Debug\BookShop2.pdb
+E:\BookShop2\BookShop2\bin\ApplicationInsights.config
+E:\BookShop2\BookShop2\bin\BookShop2.dll.config
+E:\BookShop2\BookShop2\bin\BookShop2.dll
+E:\BookShop2\BookShop2\bin\BookShop2.pdb
+E:\BookShop2\BookShop2\bin\roslyn\csc.exe
+E:\BookShop2\BookShop2\bin\roslyn\csc.exe.config
+E:\BookShop2\BookShop2\bin\roslyn\csc.rsp
+E:\BookShop2\BookShop2\bin\roslyn\csi.exe
+E:\BookShop2\BookShop2\bin\roslyn\csi.exe.config
+E:\BookShop2\BookShop2\bin\roslyn\csi.rsp
+E:\BookShop2\BookShop2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BookShop2\BookShop2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BookShop2\BookShop2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BookShop2\BookShop2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BookShop2\BookShop2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\BookShop2\BookShop2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BookShop2\BookShop2\bin\roslyn\System.AppContext.dll
+E:\BookShop2\BookShop2\bin\roslyn\System.Collections.Immutable.dll
+E:\BookShop2\BookShop2\bin\roslyn\System.Console.dll
+E:\BookShop2\BookShop2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\BookShop2\BookShop2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BookShop2\BookShop2\bin\roslyn\System.IO.Compression.dll
+E:\BookShop2\BookShop2\bin\roslyn\System.IO.FileSystem.dll
+E:\BookShop2\BookShop2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BookShop2\BookShop2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\BookShop2\BookShop2\bin\roslyn\System.IO.Pipes.dll
+E:\BookShop2\BookShop2\bin\roslyn\System.Reflection.Metadata.dll
+E:\BookShop2\BookShop2\bin\roslyn\System.Security.AccessControl.dll
+E:\BookShop2\BookShop2\bin\roslyn\System.Security.Claims.dll
+E:\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\BookShop2\BookShop2\bin\roslyn\System.Security.Principal.Windows.dll
+E:\BookShop2\BookShop2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\BookShop2\BookShop2\bin\roslyn\System.ValueTuple.dll
+E:\BookShop2\BookShop2\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\BookShop2\BookShop2\bin\roslyn\System.Xml.XmlDocument.dll
+E:\BookShop2\BookShop2\bin\roslyn\System.Xml.XPath.dll
+E:\BookShop2\BookShop2\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\BookShop2\BookShop2\bin\roslyn\vbc.exe
+E:\BookShop2\BookShop2\bin\roslyn\vbc.exe.config
+E:\BookShop2\BookShop2\bin\roslyn\vbc.rsp
+E:\BookShop2\BookShop2\bin\roslyn\VBCSCompiler.exe
+E:\BookShop2\BookShop2\bin\roslyn\VBCSCompiler.exe.config
+E:\BookShop2\BookShop2\bin\Antlr3.Runtime.dll
+E:\BookShop2\BookShop2\bin\EntityFramework.dll
+E:\BookShop2\BookShop2\bin\EntityFramework.SqlServer.dll
+E:\BookShop2\BookShop2\bin\Microsoft.AI.Agent.Intercept.dll
+E:\BookShop2\BookShop2\bin\Microsoft.AI.DependencyCollector.dll
+E:\BookShop2\BookShop2\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\BookShop2\BookShop2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\BookShop2\BookShop2\bin\Microsoft.AI.Web.dll
+E:\BookShop2\BookShop2\bin\Microsoft.AI.WindowsServer.dll
+E:\BookShop2\BookShop2\bin\Microsoft.ApplicationInsights.dll
+E:\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Core.dll
+E:\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\BookShop2\BookShop2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\BookShop2\BookShop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BookShop2\BookShop2\bin\Microsoft.Owin.dll
+E:\BookShop2\BookShop2\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Cookies.dll
+E:\BookShop2\BookShop2\bin\Microsoft.Owin.Security.dll
+E:\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Facebook.dll
+E:\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Google.dll
+E:\BookShop2\BookShop2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\BookShop2\BookShop2\bin\Microsoft.Owin.Security.OAuth.dll
+E:\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Twitter.dll
+E:\BookShop2\BookShop2\bin\Microsoft.Web.Infrastructure.dll
+E:\BookShop2\BookShop2\bin\Newtonsoft.Json.dll
+E:\BookShop2\BookShop2\bin\Owin.dll
+E:\BookShop2\BookShop2\bin\System.Diagnostics.DiagnosticSource.dll
+E:\BookShop2\BookShop2\bin\System.Web.Helpers.dll
+E:\BookShop2\BookShop2\bin\System.Web.Mvc.dll
+E:\BookShop2\BookShop2\bin\System.Web.Optimization.dll
+E:\BookShop2\BookShop2\bin\System.Web.Razor.dll
+E:\BookShop2\BookShop2\bin\System.Web.WebPages.Deployment.dll
+E:\BookShop2\BookShop2\bin\System.Web.WebPages.dll
+E:\BookShop2\BookShop2\bin\System.Web.WebPages.Razor.dll
+E:\BookShop2\BookShop2\bin\WebGrease.dll
+E:\BookShop2\BookShop2\bin\System.Web.Helpers.xml
+E:\BookShop2\BookShop2\bin\System.Web.Mvc.xml
+E:\BookShop2\BookShop2\bin\System.Web.Optimization.xml
+E:\BookShop2\BookShop2\bin\System.Web.Razor.xml
+E:\BookShop2\BookShop2\bin\System.Web.WebPages.xml
+E:\BookShop2\BookShop2\bin\System.Web.WebPages.Deployment.xml
+E:\BookShop2\BookShop2\bin\System.Web.WebPages.Razor.xml
+E:\BookShop2\BookShop2\bin\Newtonsoft.Json.xml
+E:\BookShop2\BookShop2\bin\Antlr3.Runtime.pdb
+E:\BookShop2\BookShop2\bin\EntityFramework.xml
+E:\BookShop2\BookShop2\bin\EntityFramework.SqlServer.xml
+E:\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Core.xml
+E:\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\BookShop2\BookShop2\bin\Microsoft.Owin.xml
+E:\BookShop2\BookShop2\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\BookShop2\BookShop2\bin\Microsoft.Owin.Security.xml
+E:\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Facebook.xml
+E:\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Cookies.xml
+E:\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Google.xml
+E:\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Twitter.xml
+E:\BookShop2\BookShop2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\BookShop2\BookShop2\bin\Microsoft.Owin.Security.OAuth.xml
+E:\BookShop2\BookShop2\bin\System.Diagnostics.DiagnosticSource.xml
+E:\BookShop2\BookShop2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\BookShop2\BookShop2\bin\Microsoft.AI.DependencyCollector.xml
+E:\BookShop2\BookShop2\bin\Microsoft.AI.WindowsServer.xml
+E:\BookShop2\BookShop2\bin\Microsoft.AI.Web.xml
+E:\BookShop2\BookShop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BookShop2\BookShop2\obj\Debug\BookShop2.csprojAssemblyReference.cache
+E:\BookShop2\BookShop2\obj\Debug\BookShop2.csproj.CoreCompileInputs.cache
+E:\BookShop2\BookShop2\obj\Debug\BookShop2.csproj.CopyComplete
+E:\BookShop2\BookShop2\obj\Debug\BookShop2.dll
+E:\BookShop2\BookShop2\obj\Debug\BookShop2.pdb
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\ApplicationInsights.config
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\BookShop2.dll.config
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\BookShop2.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\BookShop2.pdb
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\csc.exe
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\csc.exe.config
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\csc.rsp
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\csi.exe
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\csi.exe.config
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\csi.rsp
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\System.AppContext.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\System.Console.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\vbc.exe
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\vbc.exe.config
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\vbc.rsp
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Antlr3.Runtime.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\EntityFramework.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\EntityFramework.SqlServer.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.AI.Web.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.Owin.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.Owin.Security.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Newtonsoft.Json.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Owin.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\System.Web.Helpers.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\System.Web.Mvc.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\System.Web.Optimization.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\System.Web.Razor.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\System.Web.WebPages.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\WebGrease.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\System.Web.Helpers.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\System.Web.Mvc.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\System.Web.Optimization.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\System.Web.Razor.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\System.Web.WebPages.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Newtonsoft.Json.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Antlr3.Runtime.pdb
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\EntityFramework.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\EntityFramework.SqlServer.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.Owin.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.Owin.Security.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.AI.Web.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\obj\Debug\BookShop2.csprojAssemblyReference.cache
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\obj\Debug\BookShop2.csproj.CoreCompileInputs.cache
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\obj\Debug\BookShop2.csproj.CopyComplete
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\obj\Debug\BookShop2.dll
+C:\Users\Roshan\Desktop\BookShop2\BookShop2\BookShop2\obj\Debug\BookShop2.pdb
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\BookShop2.dll.config
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\BookShop2.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\BookShop2.pdb
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Owin.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\WebGrease.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\obj\Debug\BookShop2.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\obj\Debug\BookShop2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\obj\Debug\BookShop2.csproj.CopyComplete
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\obj\Debug\BookShop2.dll
+C:\Users\Admin\Desktop\New folder\BookShop2\BookShop2\obj\Debug\BookShop2.pdb
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\ApplicationInsights.config
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\BookShop2.dll.config
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\BookShop2.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\BookShop2.pdb
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\csc.exe
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\csc.exe.config
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\csc.rsp
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\csi.exe
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\csi.exe.config
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\csi.rsp
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\System.AppContext.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\System.Console.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\vbc.exe
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\vbc.exe.config
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\vbc.rsp
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Antlr3.Runtime.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\EntityFramework.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\EntityFramework.SqlServer.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.AI.Web.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.Owin.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.Owin.Security.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Newtonsoft.Json.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Owin.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\System.Web.Helpers.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\System.Web.Mvc.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\System.Web.Optimization.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\System.Web.Razor.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\System.Web.WebPages.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\WebGrease.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\System.Web.Helpers.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\System.Web.Mvc.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\System.Web.Optimization.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\System.Web.Razor.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\System.Web.WebPages.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Newtonsoft.Json.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Antlr3.Runtime.pdb
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\EntityFramework.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\EntityFramework.SqlServer.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.Owin.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.Owin.Security.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.AI.Web.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\obj\Debug\BookShop2.csprojAssemblyReference.cache
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\obj\Debug\BookShop2.csproj.CoreCompileInputs.cache
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\obj\Debug\BookShop2.csproj.CopyComplete
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\obj\Debug\BookShop2.dll
+C:\Users\Roshan\Desktop\New folder (2)\BookShop2\BookShop2\obj\Debug\BookShop2.pdb
+E:\Wddn Project\BookShop2\BookShop2\bin\ApplicationInsights.config
+E:\Wddn Project\BookShop2\BookShop2\bin\BookShop2.dll.config
+E:\Wddn Project\BookShop2\BookShop2\bin\BookShop2.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\BookShop2.pdb
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\csc.exe
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\csc.exe.config
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\csc.rsp
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\csi.exe
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\csi.exe.config
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\csi.rsp
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.AppContext.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Collections.Immutable.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Console.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.IO.Compression.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.IO.FileSystem.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.IO.Pipes.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Reflection.Metadata.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Security.AccessControl.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Security.Claims.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.ValueTuple.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Xml.XPath.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\vbc.exe
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\vbc.exe.config
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\vbc.rsp
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\VBCSCompiler.exe
+E:\Wddn Project\BookShop2\BookShop2\bin\roslyn\VBCSCompiler.exe.config
+E:\Wddn Project\BookShop2\BookShop2\bin\Antlr3.Runtime.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\EntityFramework.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\EntityFramework.SqlServer.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AI.DependencyCollector.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AI.Web.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AI.WindowsServer.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.ApplicationInsights.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Google.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Web.Infrastructure.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\Newtonsoft.Json.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\Owin.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\System.Web.Helpers.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\System.Web.Mvc.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\System.Web.Optimization.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\System.Web.Razor.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\System.Web.WebPages.Deployment.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\System.Web.WebPages.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\System.Web.WebPages.Razor.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\WebGrease.dll
+E:\Wddn Project\BookShop2\BookShop2\bin\System.Web.Helpers.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\System.Web.Mvc.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\System.Web.Optimization.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\System.Web.Razor.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\System.Web.WebPages.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\System.Web.WebPages.Deployment.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\System.Web.WebPages.Razor.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\Newtonsoft.Json.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\Antlr3.Runtime.pdb
+E:\Wddn Project\BookShop2\BookShop2\bin\EntityFramework.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\EntityFramework.SqlServer.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Google.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AI.DependencyCollector.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AI.WindowsServer.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AI.Web.xml
+E:\Wddn Project\BookShop2\BookShop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Wddn Project\BookShop2\BookShop2\obj\Debug\BookShop2.csprojAssemblyReference.cache
+E:\Wddn Project\BookShop2\BookShop2\obj\Debug\BookShop2.csproj.CoreCompileInputs.cache
+E:\Wddn Project\BookShop2\BookShop2\obj\Debug\BookShop2.csproj.CopyComplete
+E:\Wddn Project\BookShop2\BookShop2\obj\Debug\BookShop2.dll
+E:\Wddn Project\BookShop2\BookShop2\obj\Debug\BookShop2.pdb
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\BookShop2.dll.config
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\BookShop2.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\BookShop2.pdb
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Owin.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\WebGrease.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\obj\Debug\BookShop2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\obj\Debug\BookShop2.csproj.CopyComplete
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\obj\Debug\BookShop2.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\obj\Debug\BookShop2.pdb
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\PagedList.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\PagedList.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\pro\Wddn Project\BookShop2\BookShop2\obj\Debug\BookShop2.csprojAssemblyReference.cache

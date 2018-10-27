@@ -1,0 +1,50 @@
+﻿@model BookShop2.Models.UserDetail
+
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h4 style='color:red'>@{ 
+    if (Session["Message"] != null)
+    {
+        @Session["Message"].ToString()
+        Session.Clear();
+    }
+    }</h4>
+
+<h2>Login</h2>
+@using (Html.BeginForm("Verify", "UserDetails", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.UserName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBox("uname")
+                @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBox("pass")
+                @Html.ValidationMessageFor(model => model.Password, " ", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Login" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    Didn't Register Yet?:@Html.ActionLink("Click here", "Create")
+</div>

@@ -1,0 +1,31 @@
+﻿@model System.Web.Mvc.HandleErrorInfo
+
+@{
+
+    ViewBag.Title = "Customize Error Page";
+
+}
+
+<div style=" padding: 20px; color:red">
+
+    <h3>
+
+        Customized  Error Page:
+
+    </h3>
+
+    <h3>
+
+        Sorry, an error occurred while processing your request Or View Of Corresponding Controller and Controller Action Method Not There.
+        if You've not login pls Login First
+
+    </h3>
+
+    <h6>@Html.ActionLink("Go Back To Home Page", "Index", "Home")</h6>
+    <h6>@Html.ActionLink("Go Back To Login", "Login", "UserDetails")</h6>
+
+    <br />
+
+    <br />
+
+</div>

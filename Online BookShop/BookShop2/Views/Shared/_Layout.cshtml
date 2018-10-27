@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.4.1/css/all.css' integrity='sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz' crossorigin='anonymous'>
+    
+    <title>@ViewBag.Title - BookShop</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <style>
+        footer {
+            left:0;
+            width:100%;
+            background-color:black;
+        }
+        .fab fa-google-plus {
+            background-color: gray;
+            color:white;
+        }
+        a:hover .fa-google-plus{
+            color:red;
+        }
+
+        .fab fa-facebook {
+            color: white;
+            background-color: gray;
+        }
+        a:hover .fa-facebook {
+            color:blue;
+        }
+        
+    </style>
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Book Shop", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("Cart","Index","CartDetails")</li>
+                   
+                    @if (Session["UserName"] != null) { 
+                        if (Session["UserName"].ToString() == "kunj")
+                        {
+                            <li>@Html.ActionLink("Book","Index","BookDetails")</li>
+                        }
+                    }
+                </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <footer style="position:fixed;bottom:0;">
+            <center>
+                <a href="../Account/Login"><i class='fab fa-google-plus' style='font-size:36px;'></i></a>
+                <a href="../Account/Login"><i class='fab fa-facebook' style='font-size:36px;'></i></a>
+            </center>
+        </footer>
+        
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

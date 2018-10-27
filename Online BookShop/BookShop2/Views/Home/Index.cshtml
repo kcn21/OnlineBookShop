@@ -1,0 +1,71 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+
+@model PagedList.IPagedList<BookShop2.Models.BookDetail>
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h4 style='color:red'>
+    @if (Session["Message"] != null)
+    {
+        @Session["Message"].ToString()
+        string a = Session["UserName"].ToString();
+        Session.Clear();
+        Session["UserName"] = a;
+
+    }
+</h4><br><br>
+
+
+@using (Html.BeginForm())
+{
+    <h5>
+        Searching by Book Name:@Html.TextBox("searchString",ViewBag.CurrentFilter as  string)
+        Searching by Author Name:@Html.TextBox("author")
+        Searching by Price of the Book :@Html.TextBox("price")
+        <input id="Submit" type="submit" value="Search" />
+    </h5>
+
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.ActionLink("BookName", "Index", new { sortOrder = ViewBag.BookNameSort,currentFilter=ViewBag.CurrentFilter })
+        </th>
+        <th>
+            @Html.ActionLink("Author", "Index", new { sortOrder = ViewBag.AuthorSort, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            @Html.ActionLink("Price", "Index", new { sortOrder = ViewBag.PriceSort, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BookName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+
+                @Html.ActionLink("Add To Cart", "Create", new { ID = item.BookId })
+
+            </td>
+        </tr>
+    }
+
+</table>
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber ) of @Model.PageCount
+@Html.PagedListPager(Model,page =>Url.Action("Index", new {page ,sortOrder=ViewBag.CurrentSort, currentFilter=ViewBag.CurrentFilter }))
